@@ -23,6 +23,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/XRF_Scenes/ExampleScene_Terrain.unity
     guid: 13c04b2eb4756a74cada50e526009451
+  - enabled: 1
+    path: Assets/EscherProject/Scenes/Escher_Scene.unity
+    guid: 93eec8b8540634cdea210de224dd2a56
+  - enabled: 1
+    path: Assets/EscherProject/Scenes/Relativity_Scene.unity
+    guid: d0528fc423d8e476dbe1891fed2df958
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8ce81e0bf68ac3e4abd42d74b53a395e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 52eaa7aad8898ee4c8264272118be8eb, type: 2}

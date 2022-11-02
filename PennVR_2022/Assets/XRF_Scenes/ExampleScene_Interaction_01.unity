@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18211004, g: 0.22780816, b: 0.30738628, a: 1}
+  m_IndirectSpecularColor: {r: 0.049827646, g: 0.069701865, b: 0.12342187, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1465,8 +1465,10 @@ MonoBehaviour:
   SceneToLoad: 
   NumberOfThingsToTurnON: 1
   NumberOfThingsToTurnOFF: 1
-  StartOFFClickON: []
-  StartONClickOFF: []
+  StartOFFClickON:
+  - {fileID: 0}
+  StartONClickOFF:
+  - {fileID: 0}
   objectToBecomeParent: {fileID: 0}
   originalPos: {x: 0, y: 0, z: 0}
   isGrabbable: 0
